@@ -1,8 +1,8 @@
 
 const productos = [
-  { nombre: "Pan casero", cantidad: 10, costo: 2200, venta: 3500 },
-  { nombre: "Facturas", cantidad: 8, costo: 2600, venta: 3500 },
-  { nombre: "Alfajores", cantidad: 1, costo: 4200, venta: 5000 },
+  { nombre: "Pan casero", cantidad: 0, costo: 2200, venta: 3500 },
+  { nombre: "Facturas", cantidad: 0, costo: 2600, venta: 3500 },
+  { nombre: "Alfajores", cantidad: 0, costo: 4200, venta: 5000 },
   { nombre: "Budines", cantidad: 0, costo: 3000, venta: 3500 },
   { nombre: "Pastafrolas", cantidad: 0, costo: 4200, venta: 5000 },
 ];
